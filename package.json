@@ -44,6 +44,7 @@
     "ember-welcome-page": "^1.0.1",
     "liquid-fire": "0.26.4",
     "liquid-fire-ios": "0.1.0",
+    "liquid-tether": "2.0.0-beta.2",
     "loader.js": "^4.0.1",
     "memory-scroll": "0.2.0"
   }
